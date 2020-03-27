@@ -1,5 +1,5 @@
 # American Sign Language - Gestures to Text
-Libraries used: numpy, keras.models, keras.utils, keras.layers, tensorflow, opencv, h5py, pillow, sklearn, random
+Libraries used: numpy, keras.models, keras.utils, keras.layers, tensorflow, opencv, h5py, pillow, sklearn, random \n
 Dataset used: https://www.kaggle.com/grassknoted/asl-alphabet
 
 # Version 1.0 - Letter Support
